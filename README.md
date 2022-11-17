@@ -6,10 +6,9 @@
 - [Description](#description-of-project)
 - [visuals](#visuals)
 
-
 ## Description of project
 Improved the Horiseon website to be more accessible to users.
 
 
 ## Visuals
-![image description](assets/images/search-engine-optimization.jpg) 
+![search engine optimization image](assets/images/search-engine-optimization.jpg) 
