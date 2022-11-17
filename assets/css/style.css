@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* targeted nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* added underline to links when hovered*/
 a:hover {
     text-decoration: underline;
 }
@@ -89,7 +89,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* merged together to reduce repeating code*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -108,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-
+/* merged together to reduce repeating code*/
 .article-settings {
     margin-bottom: 20px;
     padding: 50px;
