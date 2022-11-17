@@ -1,16 +1,15 @@
 # seo-refactor
 
-[Link to my project](URL here)
+[Link to my project](https://championtan.github.io/seo-refactor/)
 
 ## Table of contents
 - [Description](#description-of-project)
 - [visuals](#visuals)
--
+
 
 ## Description of project
-A good description of my project
+Improved the Horiseon website to be more accessible to users.
 
-More description
 
 ## Visuals
-![image description](image-folder/image.png)
+![image description](assets/images/search-engine-optimization.jpg) 
